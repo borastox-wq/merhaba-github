@@ -1,7 +1,3 @@
-# merhaba-github
-GitHub'ı öğrenirken oluşturduğum ilk depo.
-# Başlık
-## Başlık
-**kalın**
-- madde
-  
+# Merhaba GitHub
+
+Bu depo, GitHub'ı öğrenirken oluşturduğum ilk depo.
